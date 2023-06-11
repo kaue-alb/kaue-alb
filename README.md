@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaue-alb&show_icons=true&locale=en" alt="kaue-alb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaue-alb&" alt="kaue-alb" /></p>
+
+![Snake animation](https://github.com/kaue-alb/kaue-alb/blob/output/github-contribution-grid-snake.svg)
